@@ -1,0 +1,9 @@
+
+{
+  "name": "AI Resume Career Pro",
+  "description": "A high-performance AI-powered resume analyzer that matches your profile against job descriptions to provide expert tailoring advice using Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
